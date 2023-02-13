@@ -1,0 +1,7 @@
+# Project exclude paths
+/share-bbs/node_modules/
+/jeecgboot-vue3-master/node_modules/
+
+/jeecgboot-vue3-master/.gitee/
+/.idea/
+/share-bbs/uni_modules/
